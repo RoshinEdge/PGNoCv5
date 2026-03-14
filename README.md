@@ -2,6 +2,13 @@
 
 <img src="gui_view.png" width=50% height=50%>
 
+| Work  | Doi | 
+|-------|-----|
+| Hardware-Software Complex for Network-on-Chip Prototyping Using Multiple FPGAs | 10.1109/access.2026.3652459  | 
+| Implementation of Regular Topologies for NoCs Based on schoolMIPS Soft-Processor Cores    | 10.1109/SMARTINDUSTRYCON61328.2024.10515324  | 
+| 
+Hardware-Software Complex for Prototyping NoCs Using a Few FPGA Chips  | 10.1109/rusautocon58002.2023.10272798  | 
+
 ## Abstract
 A promising architecture of modern multicore systems on a chip (SoC) is a network on a chip (NoC). NoC combines processor cores and complex functional blocks into a single switching network. The organization of the architecture according to the network type avoids collisions inherent in the bus architecture. Currently, research and development in the field of NoCs is actively underway.
 An important area of work in the field of NoC is the development of hardware prototyping of NoC based on FPGAs. The existing hardware and software complexes are designed for prototyping SoCs and do not take into account the features of NoCs. Therefore, it is required to create a prototype of such a complex. The main objectives of this project are to develop the software parts of a complex for prototyping NoCs on several FPGAs.
