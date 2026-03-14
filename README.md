@@ -23,7 +23,7 @@ Development of a software package designed to generate a NoC model and its subse
 
 ## Papers
 
-| Work  | Doi | 
+| Work  | DOI | 
 |-------|-----|
 | Hardware-Software Complex for Network-on-Chip Prototyping Using Multiple FPGAs | 10.1109/access.2026.3652459  | 
 | Implementation of Regular Topologies for NoCs Based on schoolMIPS Soft-Processor Cores    | 10.1109/SMARTINDUSTRYCON61328.2024.10515324  | 
