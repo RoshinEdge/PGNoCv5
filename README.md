@@ -1,6 +1,6 @@
 # Project1955
 
-<img src="меню.png" width=50% height=50%>
+<img src="gui_view.png" width=50% height=50%>
 
 ## Abstract
 A promising architecture of modern multicore systems on a chip (SoC) is a network on a chip (NoC). NoC combines processor cores and complex functional blocks into a single switching network. The organization of the architecture according to the network type avoids collisions inherent in the bus architecture. Currently, research and development in the field of NoCs is actively underway.
