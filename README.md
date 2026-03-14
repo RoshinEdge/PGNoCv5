@@ -11,6 +11,8 @@ During the project, it is necessary to improve the software package and add a nu
 ## Goal
 Development of a software package designed to generate a NoC model and its subsequent implementation on several FPGAs
 
+## Papers
+
 | Work  | Doi | 
 |-------|-----|
 | Hardware-Software Complex for Network-on-Chip Prototyping Using Multiple FPGAs | 10.1109/access.2026.3652459  | 
